@@ -1,2 +1,5 @@
-# ffamilydom-resources
-Public resources, presentations and downloadable documents for FamilyDom.
+# FamilyDom Resources
+
+Official downloadable resources for FamilyDom.
+
+Partnership presentations, guides and public documents.
